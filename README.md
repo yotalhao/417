@@ -101,6 +101,3 @@ DROP EXTENSION IF EXISTS dna CASCADE;
 - The maximum length for `dna` and `kmer` types is 32 nucleotides.
 - The `qkmer` type supports IUPAC codes for ambiguous nucleotides.
 
----
-
-You can save this content as `README.md` for your project.
